@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Django Secrets
+.env
+*.log
+
+# VSCode/IDE
+.vscode/
+.idea/
+
+# Migrations (optional)
+**/migrations/
