@@ -107,6 +107,19 @@ Multi-school support
 
 AI-enhanced constraint handling
 
+🤝 Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
 
+📄 License
+MIT
+
+✨ Acknowledgements
+Google OR-Tools
+
+Django framework contributors
+
+---
+
+Let me know if you want help creating a nice logo/banner, or if your timetable app has a specific
 
 
